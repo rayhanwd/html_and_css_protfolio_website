@@ -6,6 +6,9 @@ body{
 h1{
 font-size: 45px;
 }
+h2{
+    border-left:4px solid tomato;
+}
 .text_highlight{
     color: tomato;
 }
@@ -50,6 +53,10 @@ section{
     background-image: url(imge/exp-bg.png);
     background-repeat: no-repeat;
     background-position:left;
+}
+.p_e_heading{
+    text-align: center;
+    border: none;
 }
 .single_exper{
     box-shadow: 7px 6px 40px gray;
