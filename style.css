@@ -11,10 +11,10 @@ font-size: 45px;
 }
 
 .half_width{
-width: 40%;
+width:40%;
 float: left;
-margin-left: 5%;
-margin-right: 5%;
+padding-left:5%;
+padding-right:5%;
 }
 img{
     width: 100%;
@@ -23,7 +23,7 @@ img{
 .intro_background{
     background-image: url(imge/background.png);
     background-repeat: no-repeat;
-    height: 500px;   
+    height:500px;   
 }
 
 .link_button{
@@ -39,4 +39,40 @@ img{
     background-repeat: no-repeat;
     height:500px;
     background-position: right;
+}
+/*-------Professional Experience-------*/
+.P_experience{
+    background-image: url(imge/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+    height:500px;
+}
+.single_exper{
+    box-shadow: 7px 6px 40px gray;
+    border-radius:5px;
+    height:300px;
+}
+
+.single_highlight_text{
+    color: tomato;
+}
+#full_stack{
+    border-left: 3px solid;
+    border-image: linear-gradient(180deg,#f46b45,#eea849);
+    border-image-slice: 1;
+}
+
+#local_seo{
+    border-left: 3px solid;
+    border-image: linear-gradient(180deg,#f46b45,#eea849);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+}
+
+.footer_text_highlight{
+    color: tomato;
+    font-size: 19px;
 }
