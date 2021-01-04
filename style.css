@@ -11,13 +11,18 @@ font-size: 45px;
 }
 
 .half_width{
-width:40%;
-float: left;
-padding-left:5%;
-padding-right:5%;
+
+    width:40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
 }
 img{
     width: 100%;
+}
+
+section{
+    height:500px;
 }
 
 .intro_background{
@@ -45,12 +50,11 @@ img{
     background-image: url(imge/exp-bg.png);
     background-repeat: no-repeat;
     background-position:left;
-    height:500px;
 }
 .single_exper{
     box-shadow: 7px 6px 40px gray;
     border-radius:5px;
-    height:300px;
+    height:70%;
 }
 
 .single_highlight_text{
