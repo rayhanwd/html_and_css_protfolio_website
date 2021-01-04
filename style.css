@@ -23,7 +23,7 @@ img{
 .intro_background{
     background-image: url(imge/background.png);
     background-repeat: no-repeat;
-    height: 500vh;    
+    height: 500px;   
 }
 
 .link_button{
@@ -32,4 +32,11 @@ img{
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
+}
+
+.growbig_my_dream{
+    background-image: url(imge/background1.png);
+    background-repeat: no-repeat;
+    height:500px;
+    background-position: right;
 }
