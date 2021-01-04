@@ -61,13 +61,13 @@ section{
     color: tomato;
 }
 #full_stack{
-    border-left: 3px solid;
+    border-left: 7px solid;
     border-image: linear-gradient(180deg,#f46b45,#eea849);
     border-image-slice: 1;
 }
 
 #local_seo{
-    border-left: 3px solid;
+    border-left: 7px solid;
     border-image: linear-gradient(180deg,#f46b45,#eea849);
     border-image-slice: 1;
 }
